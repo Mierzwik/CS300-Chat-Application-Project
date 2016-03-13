@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package chatappserver;
 
 /**
  *
  * @author Bryan
+ * Comments: I think if I were to recreate this project, the server would just be command line based and would not have a GUI. 
  */
 public class ChatServerGUI extends javax.swing.JFrame {
     // Create a new thread JUST to listen for messages from the server. 
